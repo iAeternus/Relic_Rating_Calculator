@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/pm.jpg</file>
+        <file>res/YieldWeights.txt</file>
+        <file>res/bg1.png</file>
+        <file>res/bg2.jpg</file>
+    </qresource>
+</RCC>
